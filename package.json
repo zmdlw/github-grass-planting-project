@@ -1,0 +1,19 @@
+{
+  "name": "github_bot",
+  "version": "1.0.0",
+  "description": "make contributions prettier!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmdlw/github_bot.git"
+  },
+  "author": "zmdlw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmdlw/github_bot/issues"
+  },
+  "homepage": "https://github.com/zmdlw/github_bot#readme"
+}
