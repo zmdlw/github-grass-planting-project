@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/zmdlw/github_bot/issues"
   },
-  "homepage": "https://github.com/zmdlw/github_bot#readme"
+  "homepage": "https://github.com/zmdlw/github_bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.3",
+    "simplegit": "^1.0.2"
+  }
 }
