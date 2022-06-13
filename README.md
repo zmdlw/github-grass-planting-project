@@ -8,7 +8,7 @@ alt="git contribution bot logo">
 # `Github_Contribution_Bot`
 ### Simple project for adding github contributions.
 
-<img src="[https://pngtree.com/free-line-png](https://png.pngtree.com/png-vector/20200801/ourmid/pngtree-straight-black-line-segment-png-image_2319159.jpg)">
+<img src="https://www.citypng.com/public/uploads/preview/horizontal-white-line-31631830485enhmpq20u9.png">
 
 ### Anyone else sick of care github contribution?
 
