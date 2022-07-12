@@ -6,9 +6,20 @@ alt="git contribution bot logo">
 </p>
 
 # `Github_Contribution_Bot`
-### Simple project for adding github contributions.
 
+<br/>
 
-### Anyone else sick of care github contribution?
+## Summary
 
-</br>
+Anyone else sick of care github contribution?
+This project is a simple project for adding github contributions.
+
+<br/>
+
+## Quick start
+```Terminal
+$ node index.js
+```
+
+<p align="center">
+<img src="">
